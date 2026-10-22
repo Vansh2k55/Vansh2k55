@@ -23,10 +23,8 @@ const vansh = {
   name: "Vansh Makhija",
   education: "B.Tech Computer Science @ MIT Bengaluru 🎓",
   location: "Bengaluru, India 🇮🇳",
-  currentlyBuilding: ["Settle", "news-bias-detector"],
+  currentlyBuilding: ["Settle", "NewsDrop"],
   currentlyLearning: ["System Design", "Advanced TypeScript", "ML/NLP"],
-  funFact: "I debug with console.log and I'm not ashamed 😎",
-  lookingFor: "Cool projects & people to collaborate with",
 };
 ```
 
